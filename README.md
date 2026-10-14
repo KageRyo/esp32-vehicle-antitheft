@@ -1,8 +1,7 @@
 # 基於ESP32S的 IoT 車輛防盜警報系統
 
-> 請注意：  
-> 由於 Line Notify 將在 2025 年 3 月 31 日結束服務，屆時目前版本 AntiTheft 將可能失效。  
-> 未來預計將此系統改版使用 Line Message API 發送訊息通知。
+> 歷史專案：Line Notify 已於 2025 年 3 月 31 日結束服務，因此目前版本的通知功能已失效。
+> Line Message API 改版尚未實作。
 
 ![demo](https://github.com/user-attachments/assets/f2681584-c25b-4b0b-ba06-85371b6f5bdb)
 
